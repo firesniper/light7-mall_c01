@@ -1,0 +1,613 @@
+* {
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td {
+	margin: 0;
+	padding: 0;
+}
+ul, ol, li {
+	list-style: none;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+}
+em, i {
+	font-style: normal;
+}
+a {
+	text-decoration: none;
+}
+a {
+	color: #3d4245;
+	text-decoration: none;
+}
+img {
+	border: none;
+}
+input, img {
+	vertical-align: middle;
+}
+.icons-noresult, .icons-taobao-logo, .icons-home, .icons-baobei, .icons-tmall, .icons-slider-block, .icons-shop, .icons-largest, .icons-list, .icons-larger, .icons-sift-select, .icons-search, .icons-gotop, .icons-sift, .icons-checked-icon, .icons-sift-up, .icons-sift-down, .icons-suggest-addto, .icons-sortbar-arrow, .icons-sortbar-arrow-selected, .icons-miniphone, .icons-arrow-down {
+	background-image: url(//www.firesnip.com/light7-mall_c01_ol/dist/img/icons@2x.png);
+	background-repeat: no-repeat;
+	-webkit-background-size: 106px 543px;
+	-moz-background-size: 106px 543px;
+	background-size: 106px 543px;
+}
+.top-bar {
+	width: 100%;
+	background: #f6f6f6;
+	z-index: 101;
+	/* height: 2.3rem; */
+}
+.top-bar.on {
+	background-color: #fff;
+}
+.top-bar-w {
+	width: 100%;
+	color: #212121;
+	/* height: 32px; */
+	line-height: 32px;
+	padding: 6px 0;
+	display: -webkit-box;
+	position: relative;
+	border-bottom: 1px solid #dbdbdb;
+}
+.top-bar-c {
+	-webkit-box-flex: 1;
+	margin: 0 8px;
+}
+.top-bar.on .top-bar-c {
+	margin: 0 0 0 12px;
+}
+
+.s-input-select {
+	display: -webkit-box;
+	height: 32px;
+	background: #e3e3e5;
+	-webkit-border-radius: 4px;
+}
+.s-input-tab {
+	display: inline-block;
+	position: relative;
+}
+.s-input-tab .s-input-tab-txt {
+	width: 56px;
+	height: 30px;
+	line-height: 30px;
+	text-indent: 10px;
+	color: #999;
+	font-size: 14px;
+}
+.s-input-tab .s-input-tab-nav {
+	position: absolute;
+	left: 0;
+	top: 30px;
+	z-index: 101;
+	padding: 10px;
+}
+.s-input-tab .s-input-tab-nav.off {
+	display: none;
+}
+.s-input-tab .s-input-tab-nav ul {
+	background: #484d50;
+	border-radius: 6px;
+	width: 140px;
+	overflow: hidden;
+	color: #c7c8c9;
+}
+.s-input-tab .s-input-tab-nav li {
+	border-top: 1px solid #707476;
+	margin-top: -1px;
+	height: 35px;
+	line-height: 35px;
+}
+.icons-baobei {
+	background-position: -3px -164px;
+	width: 20px;
+	height: 22px;
+}
+.s-input-tab .s-input-tab-nav li .icon {
+	display: inline-block;
+	margin: auto 8px -8px 8px;
+	position: relative;
+	top: -3px;
+}
+
+.s-input-frame {
+	-webkit-box-flex: 1;
+	width: 100%;
+	padding-right: 10px;
+	line-height: 28px;
+}
+.c-form-suggest {
+	position: relative;
+}
+.s-input-frame .c-form-suggest {
+	display: -webkit-box;
+}
+#tbh5v0 .c-form-suggest {
+	position: relative;
+}
+.s-input-frame .s-form-search {
+	-webkit-box-flex: 1;
+}
+.s-input-frame .s-form-search .J_autocomplete {
+	border: none;
+	background: none;
+	width: 100%;
+	height: 26px;
+	font-size: 14px;
+}
+.s-input-frame .s-form-search .J_autocomplete::-webkit-search-cancel-button {
+	display: none;
+}
+.s-input-frame .s-form-search button {
+	top: 1px;
+	right: 20px;
+	width: 44px;
+	height: 30px;
+	position: absolute;
+	border: 0;
+	background-color: transparent;
+	text-align: center;
+	display: none;
+}
+.s-input-frame .s-form-search button span {
+	margin: 0 auto;
+	width: 14px;
+	height: 14px;
+	display: block;
+}
+.s-input-frame .s-form-search button span:after {
+	width: 14px;
+	height: 14px;
+	background-repeat: no-repeat;
+	background-image: url(//www.firesnip.com/light7-mall_c01_ol/dist/img/close-s.png);
+	-webkit-background-size: 14px 14px;
+	background-position: center center;
+	display: block;
+	content: "";
+}
+.s-input-frame .c-form-btn {
+	width: 30px;
+	height: 30px;
+	margin-right: -10px;
+}
+.icons-search {
+	background-position: -3px -372px;
+	width: 18px;
+	height: 18px;
+}
+.s-input-frame .icons-search {
+	display: block;
+	border: none;
+	text-indent: -999px;
+	position: relative;
+	top: 7px;
+	background-color: transparent;
+}
+.top-bar.on .logo {
+	display: none;
+}
+.top-bar-w a {
+	color: #5f646e !important;
+}
+.top-bar-w .logo {
+	width: 44px;
+	height: 44px;
+	display: block;
+	overflow: hidden;
+	margin-top: -6px;
+}
+
+.icons-home {
+	background-position: -3px -137px;
+	width: 23px;
+	height: 21px;
+}
+.top-bar-w .icons-home {
+	margin: 10px 0 0 5px;
+}
+.top-bar-btn {
+	display: none;
+	height: 30px;
+	line-height: 30px;
+	padding: 0 20px;
+	font-size: 12px;
+	color: #333;
+}
+.top-bar.on .top-bar-btn {
+	display: inline-block;
+}
+.suggest-container {
+	background: white;
+	overflow: hidden;
+}
+.suggest-container h3 {
+	color: #999;
+	font-size: 10px;
+	height: 24px;
+	line-height: 24px;
+	padding-left: 16px;
+	background: #eee;
+}
+.suggest-container ul {
+	background: #f9f9f9;
+}
+.suggest-container .suggest-hotkey {
+	padding: 8px 20px 0px;
+}
+.suggest-container ul li {
+	color: #666;
+	font-size: 14px;
+}
+.suggest-container .suggest-hotkey li {
+	border: 1px solid #dedede;
+	height: 26px;
+	line-height: 26px;
+	width: inherit;
+	border-radius: 14px;
+	text-align: center;
+	padding: 0 15px;
+	display: inline-block;
+	margin-right: 8px;
+	margin-bottom: 12px;
+}
+.filterbar-container {
+	-webkit-transform: none!important;
+	transform: none!important;
+}
+.filter-bar {
+	background: #fff;
+	border-bottom: solid 1px #ccc;
+	width: 100%;
+	z-index: 100;
+	position: relative;
+}
+.filter-bar .viewtype-switch {
+	float: right;
+	width: 50px;
+	height: 39px;
+	text-align: left;
+	border-left: 1px solid #dbdbdb;
+	margin-left: -1px;
+	position: relative;
+}
+.icons-list {
+	background-position: -3px -296px;
+	width: 20px;
+	height: 20px;
+}
+.filter-bar .viewtype-switch div {
+	position: absolute;
+	left: 50%;
+	margin-left: -10px;
+	top: 10px;
+}
+.filter-bar .sort-tab {
+	padding-right: 50px;
+}
+.filter-bar .sort-tab li {
+	position: relative;
+	color: #999;
+	color: #3d4245;
+	width: 30%;
+	display: inline-block;
+	height: 39px;
+	font-size: 14px;
+	text-align: center;
+	line-height: 39px;
+	position: relative;
+}
+.filter-bar .sort-tab .droplist-trigger {
+	width: 36%;
+}
+.filter-bar .sort-tab .selected {
+	color: #f50;
+}
+.filter-bar .sort-tab .droplist-trigger .arrow {
+	position: relative;
+	top: -3px;
+	display: inline-block;
+	margin-left: 4px;
+	width: 6px;
+	height: 3px;
+	background-repeat: no-repeat;
+	background-image: url(//www.firesnip.com/light7-mall_c01_ol/dist/img/arrow-down-orange.png);
+	background-size: 6px 3px;
+}
+.filter-bar .sort-tab .selected .arrow {
+	background-image: url(//www.firesnip.com/light7-mall_c01_ol/dist/img/arrow-down-orange.png);
+}
+
+.filter-bar .sort-tab li {
+	position: relative;
+	color: #999;
+	color: #3d4245;
+	width: 30%;
+	display: inline-block;
+	height: 39px;
+	font-size: 14px;
+	text-align: center;
+	line-height: 39px;
+	position: relative;
+}
+.filter-bar .sort-tab .bar {
+	position: absolute;
+	right: 0;
+	left:initial;
+
+	top: 10px;
+	width: 1px;
+	height: 20px;
+	background: #ccc;
+	overflow: hidden;
+	padding-right: 0;
+	padding-left: 0;
+}
+.top-bar-e {
+	min-width: 40px;
+	text-align: center;
+}
+.icons-sift {
+	background-position: -3px -418px;
+	width: 13px;
+	height: 14px;
+}
+.top-bar-e .icons-sift {
+	display: inline-block;
+	vertical-align: middle;
+}
+.filter-bar .droplist {
+	display: none;
+	position: absolute;
+	top: 40px;
+	left: 0;
+	right: 0;
+	z-index: 2;
+	white-space: nowrap;
+	background: #fff;
+	line-height: 39px;
+	border-bottom: solid 1px #c8c7cc;
+}
+.filter-bar .droplist-expand {
+	display: block;
+}
+.filter-bar .droplist .sort {
+	position: relative;
+	border-bottom: solid 1px #c8c7cc;
+}
+.filter-bar .droplist .selected {
+	color: #f50;
+}
+.icons-checked-icon {
+	background-position: -3px -438px;
+	width: 13px;
+	height: 8px;
+}
+.filter-bar .droplist .icons-checked-icon {
+	display: none;
+	position: absolute;
+	right: 20px;
+	top: 15px;
+}
+.filter-bar .droplist .selected .icons-checked-icon {
+	display: block;
+}
+.filter-bar .droplist .sort {
+	position: relative;
+	border-bottom: solid 1px #c8c7cc;
+}
+.icons-checked-icon {
+	background-position: -3px -438px;
+	width: 13px;
+	height: 8px;
+}
+.filter-bar .droplist .icons-checked-icon {
+	display: none;
+	position: absolute;
+	right: 20px;
+	top: 15px;
+}
+.filter-bar .droplist .sort {
+	position: relative;
+	border-bottom: solid 1px #c8c7cc;
+}
+.icons-checked-icon {
+	background-position: -3px -438px;
+	width: 13px;
+	height: 8px;
+}
+.filter-bar .droplist .icons-checked-icon {
+	display: none;
+	position: absolute;
+	right: 20px;
+	top: 15px;
+}
+.filter-bar .droplist .sort {
+	position: relative;
+	border-bottom: solid 1px #c8c7cc;
+}
+.filter-bar .droplist .sort:last-child {
+	border-bottom: none;
+}
+.icons-checked-icon {
+	background-position: -3px -438px;
+	width: 13px;
+	height: 8px;
+}
+.filter-bar .droplist .icons-checked-icon {
+	display: none;
+	position: absolute;
+	right: 20px;
+	top: 15px;
+}
+.search-list .page-container>li {
+	min-height: 80px;
+	padding: 12px 6px;
+	border-bottom: 1px solid #dbdbdb;
+	position: relative;
+}
+.list-view .list-item {
+	display: -webkit-box;
+}
+.list-view .p {
+	width: 100px;
+	height: 100px;
+	margin-right: 10px;
+	margin-left: 8px;
+}
+.search-list .page-container>li .p {
+	display: inline-block;
+	text-align: center;
+	overflow: hidden;
+}
+.search-list .page-container>li .p a {
+	line-height: 79px;
+	display: inline-block;
+	position: relative;
+}
+#tbh5v0 a {
+	color: #3d4245;
+	text-decoration: none;
+}
+.list-view .p-pic {
+	width: 100px;
+	height: 100px;
+}
+.search-list .page-container>li .p .flag {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0;
+	top: 0;
+}
+.search-list .page-container>li .p .flag.c-icon-pt {
+	background: url(//www.firesnip.com/light7-mall_c01_ol/dist/img/tm-corner.png) no-repeat 0 0;
+	background-size: contain;
+}
+.list-view .d {
+	margin: 4px 15px 6px 0;
+	-webkit-box-flex: 1;
+}
+.list-view .d-title {
+	font-size: 14px;
+	height: 44px;
+}
+.search-list .page-container>li .d-title {
+	line-height: 22px;
+	margin-bottom: 3px;
+	position: relative;
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	word-break: break-all;
+	color: #4b566a;
+}
+.search-list .page-container>li .d p {
+	line-height: 24px;
+	color: #999;
+}
+.search-list .h {
+	color: #f50;
+}
+.list-view .d-price .h {
+	font-size: 14px;
+}
+.search-list .page-container>li .d .d-price .h {
+	font-size: 16px;
+}
+#tbh5v0 .h {
+	color: #eb5211;
+}
+.search-list .price-icon {
+	font-family: arial;
+	padding-right: 2px;
+}
+.search-list .font-num {
+	font-family: avenir arial;
+}
+.search-list .page-container>li .d .d-price del {
+	font-size: 10px;
+	margin-left: 5px;
+}
+.search-list .page-container>li .d .d-main {
+	display: -webkit-box;
+	margin-top: -1px;
+	height: 20px;
+	overflow: hidden;
+}
+.search-list .page-container>li .d .d-main p {
+	font-size: 12px;
+	overflow: hidden;
+}
+.search-list .page-container>li .d .d-main .d-num {
+	-webkit-box-flex: 1;
+	text-align: center;
+}
+.search-list .font-num {
+	font-family: avenir arial;
+}
+.search-list .page-container>li .d .d-main .d-area {
+	text-align: right;
+}
+.search-list .icons-group {
+	position: absolute;
+	right: 0;
+	top: 0;
+	color: white;
+	line-height: 16px;
+	height: 16px;
+}
+.bar .searchbar .search-input input {
+	border: 0;
+	height: 1.4rem;
+	width: 100%;
+	margin: 0;
+}
+.searchbar .c-form-btn {
+	width: 30px;
+	height: 30px;
+	margin-right: -10px;
+	display: -webkit-inline-box;
+}
+.searchbar .icons-search {
+	background-position: -3px -372px;
+	width: 18px;
+	height: 18px;
+}
+.searchbar .icons-search {
+	display: block;
+	border: none;
+	text-indent: -999px;
+	position: relative;
+	top: 7px;
+	background-color: transparent;
+}
+@media screen and (-webkit-min-device-pixel-ratio: 1), not all, not all, not all, screen and (min-resolution: 1dppx)
+.icons-noresult, .icons-taobao-logo, .icons-home, .icons-baobei, .icons-tmall, .icons-slider-block, .icons-shop, .icons-largest, .icons-list, .icons-larger, .icons-sift-select, .icons-search, .icons-gotop, .icons-sift, .icons-checked-icon, .icons-sift-up, .icons-sift-down, .icons-suggest-addto, .icons-sortbar-arrow, .icons-sortbar-arrow-selected, .icons-miniphone, .icons-arrow-down {
+	background-image: url(//www.firesnip.com/light7-mall_c01_ol/dist/img/icons@2x.png);
+}
+@media screen and (-webkit-min-device-pixel-ratio: 1.5), not all, not all, not all, screen and (min-resolution: 1.5dppx)
+.icons-noresult, .icons-taobao-logo, .icons-home, .icons-baobei, .icons-tmall, .icons-slider-block, .icons-shop, .icons-largest, .icons-list, .icons-larger, .icons-sift-select, .icons-search, .icons-gotop, .icons-sift, .icons-checked-icon, .icons-sift-up, .icons-sift-down, .icons-suggest-addto, .icons-sortbar-arrow, .icons-sortbar-arrow-selected, .icons-miniphone, .icons-arrow-down {
+	background-image: url(//www.firesnip.com/light7-mall_c01_ol/dist/img/icons@2x.png);
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 2), not all, not all, not all, screen and (min-resolution: 2dppx)
+.icons-noresult, .icons-taobao-logo, .icons-home, .icons-baobei, .icons-tmall, .icons-slider-block, .icons-shop, .icons-largest, .icons-list, .icons-larger, .icons-sift-select, .icons-search, .icons-gotop, .icons-sift, .icons-checked-icon, .icons-sift-up, .icons-sift-down, .icons-suggest-addto, .icons-sortbar-arrow, .icons-sortbar-arrow-selected, .icons-miniphone, .icons-arrow-down {
+	background-image: url(//www.firesnip.com/light7-mall_c01_ol/dist/img/icons@2x.png);
+}
+@media screen and (-webkit-min-device-pixel-ratio: 1.5), not all, not all, not all, screen and (min-resolution: 1.5dppx)
+.icons-noresult, .icons-taobao-logo, .icons-home, .icons-baobei, .icons-tmall, .icons-slider-block, .icons-shop, .icons-largest, .icons-list, .icons-larger, .icons-sift-select, .icons-search, .icons-gotop, .icons-sift, .icons-checked-icon, .icons-sift-up, .icons-sift-down, .icons-suggest-addto, .icons-sortbar-arrow, .icons-sortbar-arrow-selected, .icons-miniphone, .icons-arrow-down {
+	background-image: url(//www.firesnip.com/light7-mall_c01_ol/dist/img/icons@2x.png);
+}
+@media screen and (-webkit-min-device-pixel-ratio: 1), not all, not all, not all, screen and (min-resolution: 1dppx)
+.icons-noresult, .icons-taobao-logo, .icons-home, .icons-baobei, .icons-tmall, .icons-slider-block, .icons-shop, .icons-largest, .icons-list, .icons-larger, .icons-sift-select, .icons-search, .icons-gotop, .icons-sift, .icons-checked-icon, .icons-sift-up, .icons-sift-down, .icons-suggest-addto, .icons-sortbar-arrow, .icons-sortbar-arrow-selected, .icons-miniphone, .icons-arrow-down {
+	background-image: url(//www.firesnip.com/light7-mall_c01_ol/dist/img/icons@2x.png);
+}
+@media screen and (-webkit-min-device-pixel-ratio: 2), not all, not all, not all, screen and (min-resolution: 2dppx)
+.icons-noresult, .icons-taobao-logo, .icons-home, .icons-baobei, .icons-tmall, .icons-slider-block, .icons-shop, .icons-largest, .icons-list, .icons-larger, .icons-sift-select, .icons-search, .icons-gotop, .icons-sift, .icons-checked-icon, .icons-sift-up, .icons-sift-down, .icons-suggest-addto, .icons-sortbar-arrow, .icons-sortbar-arrow-selected, .icons-miniphone, .icons-arrow-down {
+	background-image: url(//www.firesnip.com/light7-mall_c01_ol/dist/img/icons@2x.png);
+}
