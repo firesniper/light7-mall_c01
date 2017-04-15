@@ -1,0 +1,334 @@
+mtopjsonp3({
+	"api": "mtop.relationrecommend.WirelessRecommend.recommend",
+	"data": {
+		"result": [{
+				"industryList": [],
+				"moduleList": [{
+						"link": {},
+						"type": "cat4",
+						"title": "当季热门",
+						"items": [{
+								"name": "夹克",
+								"id": "0",
+								"pic": "//gw.alicdn.com/tps/TB1c9ZcPFXXXXa9aXXXXXXXXXXX-350-350.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "卫衣",
+								"id": "1",
+								"pic": "//gw.alicdn.com/tps/TB11noiPFXXXXbFaXXXXXXXXXXX-350-350.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "休闲裤",
+								"id": "2",
+								"pic": "//gw.alicdn.com/tps/TB1DOHJMVXXXXaKXFXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "牛仔裤",
+								"id": "3",
+								"pic": "//img.alicdn.com/tps/TB1PpB6KFXXXXaWXpXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "T恤",
+								"id": "4",
+								"pic": "//gw.alicdn.com/tps/TB1G_LtMVXXXXXyaXXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "衬衫",
+								"id": "5",
+								"pic": "//gw.alicdn.com/tps/TB1qYfzMVXXXXa6XVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "皮衣",
+								"id": "6",
+								"pic": "//img.alicdn.com/tps/TB1mCh3KFXXXXccXpXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "针织衫",
+								"id": "7",
+								"pic": "//img.alicdn.com/imgextra/TB10FVZMpXXXXcjXXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}
+						],
+						"desc": ""
+					}, {
+						"link": {},
+						"type": "cat4",
+						"title": "内搭",
+						"items": [{
+								"name": "T恤",
+								"id": "8",
+								"pic": "//img.alicdn.com/tps/TB1NHpJKFXXXXbjaXXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "衬衫",
+								"id": "9",
+								"pic": "//img.alicdn.com/tps/TB1P10ZKFXXXXaRXFXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "牛仔衬衫",
+								"id": "10",
+								"pic": "//img.alicdn.com/imgextra/TB1s_zvMpXXXXXXXFXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "针织开衫",
+								"id": "11",
+								"pic": "//img.alicdn.com/imgextra/TB1iRwVMXXXXXa4aXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "毛衣",
+								"id": "12",
+								"pic": "//img.alicdn.com/imgextra/i2/T1y5joFddcXXXXXXXX_!!0-item_pic.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "打底衫",
+								"id": "13",
+								"pic": "//img.alicdn.com/imgextra/i3/TB1_9SqLXXXXXa9XVXXXXXXXXXX_!!0-item_pic.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "Polo衫",
+								"id": "14",
+								"pic": "//img.alicdn.com/tps/TB1dHF7KFXXXXXMXpXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "马甲",
+								"id": "15",
+								"pic": "//img.alicdn.com/imgextra/i2/TB174WqGXXXXXb9XVXXXXXXXXXX_!!0-item_pic.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "背心",
+								"id": "16",
+								"pic": "//img.alicdn.com/imgextra/i4/TB1kqhRLVXXXXX.XFXXXXXXXXXX_!!0-item_pic.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}
+						],
+						"desc": ""
+					}, {
+						"link": {},
+						"type": "cat4",
+						"title": "外套",
+						"items": [{
+								"name": "夹克",
+								"id": "17",
+								"pic": "//gw.alicdn.com/tps/TB1DSIFPFXXXXcJXpXXXXXXXXXX-350-350.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "卫衣",
+								"id": "18",
+								"pic": "//gw.alicdn.com/tps/TB1UcQsPFXXXXc3XFXXXXXXXXXX-350-350.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "棒球服",
+								"id": "19",
+								"pic": "//img.alicdn.com/imgextra/TB1MnxEMpXXXXbVXVXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "皮衣",
+								"id": "20",
+								"pic": "//img.alicdn.com/tps/TB1mCh3KFXXXXccXpXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "西装",
+								"id": "21",
+								"pic": "//img.alicdn.com/imgextra/i3/TB17WjvKpXXXXXIXVXXXXXXXXXX_!!0-item_pic.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "风衣",
+								"id": "22",
+								"pic": "//img.alicdn.com/imgextra/TB1kSlWMpXXXXXjXXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "薄外套",
+								"id": "23",
+								"pic": "//img.alicdn.com/imgextra/i4/TB1KGyBLFXXXXcBXVXXXXXXXXXX_!!0-item_pic.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "牛仔外套",
+								"id": "24",
+								"pic": "//img.alicdn.com/imgextra/i3/TB160hNJFXXXXXeaXXXXXXXXXXX_!!0-item_pic.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "运动外套",
+								"id": "25",
+								"pic": "//img.alicdn.com/imgextra/TB1s9tCMpXXXXXXXpXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "呢大衣",
+								"id": "26",
+								"pic": "//img.alicdn.com/imgextra/TB1lu0bMpXXXXX4XVXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "棉衣",
+								"id": "27",
+								"pic": "//img.alicdn.com/imgextra/TB1Nmw5MXXXXXcTXVXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "羽绒服",
+								"id": "28",
+								"pic": "//img.alicdn.com/imgextra/i1/2669406820/TB2ZQfIb5KO.eBjSZPhXXXqcpXa_!!2669406820.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}
+						],
+						"desc": ""
+					}, {
+						"link": {},
+						"type": "cat4",
+						"title": "下装",
+						"items": [{
+								"name": "休闲裤",
+								"id": "29",
+								"pic": "//img.alicdn.com/tps/TB1icNOKFXXXXceXVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "牛仔裤",
+								"id": "30",
+								"pic": "//img.alicdn.com/tps/TB1PpB6KFXXXXaWXpXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "短裤",
+								"id": "31",
+								"pic": "//img.alicdn.com/imgextra/TB1Ep0cMpXXXXclXFXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "沙滩裤",
+								"id": "32",
+								"pic": "//img.alicdn.com/imgextra/TB1Bc8CMpXXXXcKXVXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "运动裤",
+								"id": "33",
+								"pic": "//img.alicdn.com/imgextra/TB1xkQTMXXXXXcyXFXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "七分裤",
+								"id": "34",
+								"pic": "//img.alicdn.com/imgextra/TB1X.pYMpXXXXciXXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "九分裤",
+								"id": "35",
+								"pic": "//img.alicdn.com/imgextra/TB18P0qMpXXXXaAXpXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "小脚裤",
+								"id": "36",
+								"pic": "//img.alicdn.com/imgextra/i4/544323876/TB2czlotFXXXXcnXXXXXXXXXXXX_!!544323876.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "阔腿裤",
+								"id": "37",
+								"pic": "//img.alicdn.com/imgextra/TB1_empMpXXXXazXFXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}
+						],
+						"desc": ""
+					}, {
+						"link": {},
+						"type": "cat4",
+						"title": "特色市场",
+						"items": [{
+								"name": "大码",
+								"id": "38",
+								"pic": "//img.alicdn.com/imgextra/TB1rAc0MXXXXXb9aXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "中老年",
+								"id": "39",
+								"pic": "//img.alicdn.com/imgextra/TB1E2GCMpXXXXXjXXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "唐装",
+								"id": "40",
+								"pic": "//img.alicdn.com/imgextra/i4/1110193991/TB2jP4BXOGO.eBjSZFjXXcU9FXa_!!1110193991.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "情侣装",
+								"id": "41",
+								"pic": "//img.alicdn.com/imgextra/i4/TB1a..2JVXXXXc7XpXXXXXXXXXX_!!0-item_pic.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}
+						],
+						"desc": ""
+					}, {
+						"link": {},
+						"type": "brand",
+						"title": "热门品牌",
+						"items": [{
+								"name": "",
+								"id": "29510",
+								"pic": "//img.taobaocdn.com/bao/uploaded/TB1PhHOKXXXXXccXFXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "",
+								"id": "29482",
+								"pic": "//img.taobaocdn.com/bao/uploaded/TB1.81cIXXXXXXoaXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "",
+								"id": "109718",
+								"pic": "//img.taobaocdn.com/bao/uploaded/TB1RskcNVXXXXaFaXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "",
+								"id": "130259",
+								"pic": "//img.taobaocdn.com/bao/uploaded/TB1skeoOFXXXXcnXFXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "",
+								"id": "29527",
+								"pic": "//img.taobaocdn.com/bao/uploaded/TB1T0E_IXXXXXbBaXXXwu0bFXXX.png",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "",
+								"id": "29493",
+								"pic": "//img.taobaocdn.com/bao/uploaded/TB1lP2_HpXXXXbHXXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "",
+								"id": "3765906",
+								"pic": "//img.taobaocdn.com/bao/uploaded/TB1s3L3HpXXXXamaXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "",
+								"id": "46864",
+								"pic": "//img.taobaocdn.com/bao/uploaded/TB1jqD0HpXXXXXcXpXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "",
+								"id": "29519",
+								"pic": "//img.taobaocdn.com/bao/uploaded/TB1puarIXXXXXXsaXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "",
+								"id": "3260856",
+								"pic": "//img.taobaocdn.com/bao/uploaded/TB1odvVHpXXXXc1XpXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "",
+								"id": "84669",
+								"pic": "//img.taobaocdn.com/bao/uploaded/TB1_b2JHpXXXXcHXVXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}, {
+								"name": "",
+								"id": "29509",
+								"pic": "//img.taobaocdn.com/bao/uploaded/TB1S3cnKXXXXXcLXpXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=men_wear"
+							}
+						],
+						"desc": ""
+					}
+				],
+				"spmc": "nanzhuang",
+				"imgQuality": "1",
+				"industry": "3"
+			}
+		],
+		"pvid": "d1d4dfe8-7e21-4c15-9dd7-6e21f053514d",
+		"scm": "1007.13113.74873.0",
+		"version": 1.0,
+		"tpp_trace": "0a67aa0314882697197568786e",
+		"status": "success",
+		"time_used": "7"
+	},
+	"ret": ["SUCCESS::调用成功"],
+	"v": "2.0"
+})

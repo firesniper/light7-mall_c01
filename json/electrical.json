@@ -1,0 +1,416 @@
+mtopjsonp7({
+	"api": "mtop.relationrecommend.WirelessRecommend.recommend",
+	"data": {
+		"result": [{
+				"industryList": [],
+				"moduleList": [{
+						"link": {},
+						"type": "banner",
+						"title": "",
+						"items": [{
+								"name": "",
+								"id": "",
+								"pic": "//gw.alicdn.com/tps/TB1rXzhPFXXXXXXXFXXXXXXXXXX-1152-294.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}
+						],
+						"desc": ""
+					}, {
+						"link": {},
+						"type": "cat4",
+						"title": "手机及热门品牌",
+						"items": [{
+								"name": "手机",
+								"id": "0",
+								"pic": "//img.alicdn.com/tps/TB1ZfXnKVXXXXbTXVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "老年手机",
+								"id": "1",
+								"pic": "//img.alicdn.com/tps/TB1SBjaMVXXXXXcXVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "Apple/苹果",
+								"id": "2",
+								"pic": "//gw.alicdn.com/tps/TB12drwPXXXXXcWapXXXXXXXXXX-350-350.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "MIUI/小米",
+								"id": "3",
+								"pic": "//gw.alicdn.com/tps/TB1._6APXXXXXXYapXXXXXXXXXX-350-350.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "Samsung/三星",
+								"id": "4",
+								"pic": "//gw.alicdn.com/tps/TB1E4vFPXXXXXaXapXXXXXXXXXX-350-350.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "Huawei/华为",
+								"id": "5",
+								"pic": "//img.alicdn.com/tps/TB1wEhlKVXXXXcpXVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "Meizu/魅族",
+								"id": "6",
+								"pic": "//img.alicdn.com/tps/TB1kedoKVXXXXarXVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "OPPO",
+								"id": "7",
+								"pic": "//img.alicdn.com/tps/TB1aApcKVXXXXXIapXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "honor/荣耀",
+								"id": "8",
+								"pic": "//gw.alicdn.com/tps/TB1UaPxPXXXXXcnapXXXXXXXXXX-350-350.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "vivo",
+								"id": "9",
+								"pic": "//gw.alicdn.com/tps/TB1ceYOPXXXXXXXaXXXXXXXXXXX-350-350.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "Letv/乐视",
+								"id": "10",
+								"pic": "//gw.alicdn.com/tps/TB1ocHCPXXXXXahaXXXXXXXXXXX-350-350.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "360手机",
+								"id": "11",
+								"pic": "//gw.alicdn.com/tps/TB1L3fMPXXXXXc8XVXXXXXXXXXX-350-350.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}
+						],
+						"desc": ""
+					}, {
+						"link": {},
+						"type": "cat4",
+						"title": "3C数码配件",
+						"items": [{
+								"name": "手机保护壳",
+								"id": "12",
+								"pic": "//img.alicdn.com/imgextra/i1/321635903/TB2k32UaX55V1Bjy0FpXXXhDpXa_!!321635903.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "移动电源",
+								"id": "13",
+								"pic": "//img.alicdn.com/imgextra/TB1Lmm1MpXXXXbLXFXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "手机贴膜",
+								"id": "14",
+								"pic": "//img.alicdn.com/imgextra/i2/T1WBVTFXFdXXXXXXXX_!!0-item_pic.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "手机数据线",
+								"id": "15",
+								"pic": "//img.alicdn.com/imgextra/TB15evZLFXXXXbIXVXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "手机充电器",
+								"id": "16",
+								"pic": "//img.alicdn.com/imgextra/TB1EZsjLFXXXXXcXpXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "手机电池",
+								"id": "17",
+								"pic": "//img.alicdn.com/imgextra/TB1NSbSLFXXXXbvXVXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "手机存储卡",
+								"id": "18",
+								"pic": "//gw.alicdn.com/tps/TB1Euf9PpXXXXc_XFXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "读卡器",
+								"id": "19",
+								"pic": "//img.alicdn.com/imgextra/i2/TB1CuOzKVXXXXc_XFXXXXXXXXXX_!!0-item_pic.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "平板电脑保护套",
+								"id": "20",
+								"pic": "//img.alicdn.com/imgextra/TB13ErTLFXXXXbeXFXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "平板电脑贴膜",
+								"id": "21",
+								"pic": "//gw.alicdn.com/tps/TB1ZDbSPpXXXXc9XVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "笔记本电脑包",
+								"id": "22",
+								"pic": "//img.alicdn.com/imgextra/i3/TB1Us8jOVXXXXaUapXXXXXXXXXX_!!0-item_pic.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "笔记本炫彩贴",
+								"id": "23",
+								"pic": "//gw.alicdn.com/tps/TB1RPksPpXXXXbVXXXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "数码相机包",
+								"id": "24",
+								"pic": "//gw.alicdn.com/tps/TB1J5nJPpXXXXcoapXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "自拍杆",
+								"id": "25",
+								"pic": "//img.alicdn.com/imgextra/i4/TB1BcbANFXXXXblXFXXXXXXXXXX_!!0-item_pic.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "脚架",
+								"id": "26",
+								"pic": "//img.alicdn.com/imgextra/i4/T1eXOeXkhmXXX9U8A8_101454.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "蓝牙耳机",
+								"id": "27",
+								"pic": "//img.alicdn.com/imgextra/i3/TB1xyyJNVXXXXaRaXXXXXXXXXXX_!!0-item_pic.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "入耳式耳机",
+								"id": "28",
+								"pic": "//gw.alicdn.com/tps/TB196snPpXXXXXrXpXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "车载充电器",
+								"id": "29",
+								"pic": "//img.alicdn.com/imgextra/TB1eDGmMpXXXXavaXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "数码相框",
+								"id": "30",
+								"pic": "//gw.alicdn.com/tps/TB1hNT0PpXXXXckXVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "USB风扇",
+								"id": "31",
+								"pic": "//img.alicdn.com/tps/TB1apPjMVXXXXXyXFXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "智能手环",
+								"id": "32",
+								"pic": "//img.alicdn.com/imgextra/TB1hwf1LFXXXXbuXVXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}
+						],
+						"desc": ""
+					}, {
+						"link": {},
+						"type": "cat4",
+						"title": "数码相机",
+						"items": [{
+								"name": "专业单反",
+								"id": "33",
+								"pic": "//gw.alicdn.com/tps/TB1r4yHJFXXXXaSaXXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "单反镜头",
+								"id": "34",
+								"pic": "//img.alicdn.com/tps/TB1UsfXMVXXXXX7XVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "普通数码",
+								"id": "35",
+								"pic": "//img.alicdn.com/tps/TB1qPm2MVXXXXXNaXXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "单电微单",
+								"id": "36",
+								"pic": "//gw.alicdn.com/tps/TB1s8W7JFXXXXbYXpXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "长焦相机",
+								"id": "37",
+								"pic": "//gw.alicdn.com/tps/TB1486TOVXXXXXjXXXXXXXXXXXX-350-350.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "数码摄像机",
+								"id": "38",
+								"pic": "//img.alicdn.com/tps/TB1ARjfMVXXXXalXFXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "拍立得",
+								"id": "39",
+								"pic": "//gw.alicdn.com/tps/TB1_O55JFXXXXc0XpXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "胶卷相机",
+								"id": "40",
+								"pic": "//gw.alicdn.com/tps/TB1OhzsOVXXXXaXXVXXXXXXXXXX-350-350.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}
+						],
+						"desc": ""
+					}, {
+						"link": {},
+						"type": "cat4",
+						"title": "电脑及热门品牌",
+						"items": [{
+								"name": "平板电脑",
+								"id": "41",
+								"pic": "//img.alicdn.com/tps/TB1nFYfMVXXXXbJXFXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "笔记本",
+								"id": "42",
+								"pic": "//gw.alicdn.com/tps/TB1DovuKpXXXXb_XVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "台式机",
+								"id": "43",
+								"pic": "//img.alicdn.com/tps/TB1j_HkMVXXXXb2XpXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "Apple/苹果",
+								"id": "44",
+								"pic": "//gw.alicdn.com/tps/TB1ryjwKpXXXXbRXVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "Lenovo/联想",
+								"id": "45",
+								"pic": "//gw.alicdn.com/tps/TB1r6zmKpXXXXaSapXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "Dell/戴尔",
+								"id": "46",
+								"pic": "//img.alicdn.com/tps/TB1dGq.MVXXXXXtXVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "Asus/华硕",
+								"id": "47",
+								"pic": "//gw.alicdn.com/tps/TB1hnvtKpXXXXXUaXXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "ThinkPad",
+								"id": "48",
+								"pic": "//gw.alicdn.com/tps/TB1zRYyKpXXXXaIXVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "Samsung/三星",
+								"id": "49",
+								"pic": "//gw.alicdn.com/tps/TB1JazQKpXXXXcTXXXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}
+						],
+						"desc": ""
+					}, {
+						"link": {},
+						"type": "cat4",
+						"title": "电脑配件",
+						"items": [{
+								"name": "液晶显示器",
+								"id": "50",
+								"pic": "//img.alicdn.com/imgextra/TB1nJxDMFXXXXbTXXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "键盘",
+								"id": "51",
+								"pic": "//img.alicdn.com/imgextra/TB1WfBHMpXXXXXiXVXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "鼠标",
+								"id": "52",
+								"pic": "//img.alicdn.com/imgextra/TB1EWkbLFXXXXaZXXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "键鼠套装",
+								"id": "53",
+								"pic": "//img.alicdn.com/imgextra/TB1FlpDMpXXXXbhXVXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "显卡",
+								"id": "54",
+								"pic": "//img.alicdn.com/tps/TB1kAC7MVXXXXbKXVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "CPU",
+								"id": "55",
+								"pic": "//img.alicdn.com/imgextra/TB1RgpzMpXXXXXsaXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "主板",
+								"id": "56",
+								"pic": "//img.alicdn.com/imgextra/TB1aFuMMpXXXXXNXVXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "硬盘",
+								"id": "57",
+								"pic": "//img.alicdn.com/imgextra/TB15HAkLFXXXXcvXXXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "内存",
+								"id": "58",
+								"pic": "//img.alicdn.com/imgextra/TB1W_NUMpXXXXXTXpXXSutbFXXX.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}
+						],
+						"desc": ""
+					}, {
+						"link": {},
+						"type": "cat4",
+						"title": "智能数码设备",
+						"items": [{
+								"name": "苹果iwatch",
+								"id": "59",
+								"pic": "//img.alicdn.com/tps/TB1dxuYMVXXXXaLaXXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "小米手环",
+								"id": "60",
+								"pic": "//img.alicdn.com/tps/TB1BH90JFXXXXc9XFXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "moto360",
+								"id": "61",
+								"pic": "//img.alicdn.com/tps/TB1iLjmJFXXXXXmXXXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "三星Gear Fit",
+								"id": "62",
+								"pic": "//gw.alicdn.com/tps/TB1xAm1MVXXXXXsaXXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "华为手环",
+								"id": "63",
+								"pic": "//img.alicdn.com/tps/TB18kWWJFXXXXX5XVXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "智能手表",
+								"id": "64",
+								"pic": "//img.alicdn.com/tps/TB13uTpMVXXXXa6XXXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "运动手环",
+								"id": "65",
+								"pic": "//img.alicdn.com/tps/TB103CYMVXXXXaZaXXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "摄像头",
+								"id": "66",
+								"pic": "//img.alicdn.com/tps/TB12zHjJFXXXXbnXXXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}, {
+								"name": "智能插座",
+								"id": "67",
+								"pic": "//img.alicdn.com/tps/TB1Exe3JFXXXXa2XFXXXXXXXXXX-375-375.jpg",
+								"url": document.baseURI + "home/search.html?scm=malldata&tbNamesStr=electrical"
+							}
+						],
+						"desc": ""
+					}
+				],
+				"spmc": "shuma",
+				"imgQuality": "1",
+				"industry": "5"
+			}
+		],
+		"pvid": "19e374de-2dbc-4233-a383-f35234d030a6",
+		"scm": "1007.13113.74873.0",
+		"version": 1.0,
+		"tpp_trace": "0a67b54e14882724104892047e",
+		"status": "success",
+		"time_used": "4"
+	},
+	"ret": ["SUCCESS::调用成功"],
+	"v": "2.0"
+})
